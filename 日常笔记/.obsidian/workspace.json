@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "6b36195e9e8778f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f600230df1546792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19286e81edfd4eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "运行时间计算.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21d47acd338adf47",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f63febc19a5f4ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2db30a9013211f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c838217d4879acb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d8b722b52876431",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6caaa79cfd7023f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "77bad9083b7ecd30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d47239ea59df0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "运行时间计算.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f9de01e7d04986a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "运行时间计算.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37a6b133ba09f432",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "306f985bcbbfb439",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "运行时间计算.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "19286e81edfd4eae",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "运行时间计算.md"
+  ]
+}
